@@ -1,0 +1,3 @@
+https://github.com/yandexdataschool/Practical_RL/tree/spring20/week01_intro
+John Schulman Course - http://rl-gym-doc.s3-website-us-west-2.amazonaws.com/mlss/index.html
+https://openai.com/blog/evolution-strategies/s
